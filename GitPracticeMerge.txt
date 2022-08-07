@@ -3,3 +3,4 @@ Deepan2
 Deepan33
 Deepan4
 Deepan5
+https://www.knowledgehut.com/blog/devops/install-jenkins-ubuntu
