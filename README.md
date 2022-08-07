@@ -1,2 +1,2 @@
 # edureka
-Using it for Devops Course Deepika
+Using it for Devops Course
